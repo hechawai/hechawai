@@ -1,33 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=2&section=header" width="100%" />
+<h1>
+  <img src="https://img.shields.io/badge/hechawai-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7" />
+</h1>
 
-<a href="https://github.com/hechawai">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%C2%B7+React+Native+%C2%B7+TypeScript;FZUHelper+Client+Maintainer;Building+things+that+people+actually+use" />
-</a>
+<p>
+  <img src="https://img.shields.io/badge/FRONTEND-36BCF7?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/REACT_NATIVE-61DAFB?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&labelColor=0D1117" />
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/FOCUS-FRONTEND-36BCF7?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/STACK-REACT%20%2F%20RN-8A2BE2?style=flat-square&labelColor=0D1117" />
-<img src="https://komarev.com/ghpvc/?username=hechawai&label=VISITORS&color=FF006E&style=flat-square" />
-
-<br/><br/>
-
-<a href="https://dayanxiangnanfei.top">
-  <img src="https://img.shields.io/badge/%E2%86%92%20%E8%AE%BF%E9%97%AE%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://dayanxiangnanfei.top/chat">
-  <img src="https://img.shields.io/badge/%E2%86%92%20AI%20Chat-00C853?style=for-the-badge&logo=openai&logoColor=white" />
-</a>
-<a href="https://github.com/hechawai">
-  <img src="https://img.shields.io/badge/%E2%86%92%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,50:8A2BE2,100:FF006E&height=2&section=header" width="60%" />
+<p>
+  <a href="https://dayanxiangnanfei.top">
+    <img src="https://img.shields.io/badge/BLOG-dayanxiangnanfei.top-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://dayanxiangnanfei.top/chat">
+    <img src="https://img.shields.io/badge/AI_CHAT-LIVE-00C853?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+  <a href="https://github.com/hechawai">
+    <img src="https://img.shields.io/badge/GITHUB-hechawai-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -35,43 +30,27 @@
 
 <div align="center">
 
-## 🌐 Language / 语言 / 言語
+### 🌐 Language / 语言 / 言語
 
 <details open>
 <summary><b>🇨🇳 中文</b></summary>
 
 <br/>
 
-### 关于我
+**关于我**
 
-```ts
-const me = {
-  role: "Frontend Developer",
-  focus: ["React", "React Native", "TypeScript", "Node.js"],
-  currently: "维护 FZUHelper 客户端",
-  belief: "代码跑起来只是开始，跑得稳才是本事"
-};
-```
+前端开发者，目前在维护 FZUHelper 客户端。  
+关注跨端体验、渲染性能与前端工程化。
 
-|  |  |
-|---|---|
-| 目前在维护 | **FZUHelper App** — 累计 **21.5w+** 独立下载、**3410w+** 次使用、月活 **1.7w** |
-| 正在深入 | **React Native 性能优化** 与 **Agent 方向前端工程化** |
-| 关注方向 | 跨端体验、渲染性能、前端工程化 |
-| 冷知识 | **GitHub 贡献图很空，但 App 每天服务 3 万人** |
+**在维护**
 
-### 技术栈
+- **FZUHelper App** — 累计 **21.5w+** 独立下载、**3410w+** 次使用、月活 **1.7w**
+  - 优化课表卡片动态字段展示与渲染性能
+  - 通过 Native Module 桥接原生 SDK，改造扫码功能
+  - 晚点名签到前后端联调，基于地图 API 实现地址反解与位置校验
+  - 运用 `memo` / `useCallback` / `AsyncStorage` 缓存优化稳定性与响应速度
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,html,css,tailwind,vite,git,linux,c,cpp,md&perline=7" />
-
-### 项目经历
-
-**FZUHelper · 客户端维护**
-
-- 优化课表卡片动态字段展示与渲染性能
-- 通过 Native Module 桥接原生 SDK，改造扫码功能
-- 晚点名签到前后端联调，基于地图 API 实现地址反解与位置校验
-- 运用 `memo` / `useCallback` / `AsyncStorage` 缓存优化稳定性与响应速度
+**项目**
 
 **AI Chatbot · 智能对话助手**
 
@@ -91,6 +70,10 @@ const me = {
 - 分页首页 + 详情页 + 标签页
 - sitemap.xml / KaTeX / search.json
 
+**技术栈**
+
+`React` · `React Native` · `TypeScript` · `Node.js` · `C/C++` · `Linux` · `Git`
+
 </details>
 
 <details>
@@ -98,36 +81,20 @@ const me = {
 
 <br/>
 
-### About Me
+**About**
 
-```ts
-const me = {
-  role: "Frontend Developer",
-  focus: ["React", "React Native", "TypeScript", "Node.js"],
-  currently: "Maintaining FZUHelper Client",
-  belief: "Running is just the start. Stable is the skill."
-};
-```
+Frontend developer, currently maintaining FZUHelper Client.  
+Focused on cross-platform UX, rendering performance and frontend engineering.
 
-|  |  |
-|---|---|
-| Currently | Maintaining **FZUHelper App** — **215k+** downloads, **34M+** sessions, **17k** MAU |
-| Learning | **React Native performance** and **Agent frontend engineering** |
-| Interests | Cross-platform UX, rendering performance, frontend engineering |
-| Fun fact | **GitHub graph is empty, but the App serves 30k users daily** |
+**Maintaining**
 
-### Tech Stack
+- **FZUHelper App** — **215k+** downloads, **34M+** sessions, **17k** MAU
+  - Optimized schedule card dynamic fields and rendering performance
+  - Bridged native SDK via Native Module for scan feature
+  - Roll-call check-in frontend-backend integration, map API reverse geocoding and location validation
+  - Used `memo` / `useCallback` / `AsyncStorage` caching to improve stability and responsiveness
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,html,css,tailwind,vite,git,linux,c,cpp,md&perline=7" />
-
-### Experience
-
-**FZUHelper · Client Maintainer**
-
-- Optimized schedule card dynamic fields and rendering performance
-- Bridged native SDK via Native Module for scan feature
-- Roll-call check-in frontend-backend integration, map API reverse geocoding and location validation
-- Used `memo` / `useCallback` / `AsyncStorage` caching to improve stability and responsiveness
+**Projects**
 
 **AI Chatbot · Streaming Assistant**
 
@@ -147,6 +114,10 @@ const me = {
 - Paginated home + detail + tag pages
 - sitemap.xml / KaTeX / search.json
 
+**Stack**
+
+`React` · `React Native` · `TypeScript` · `Node.js` · `C/C++` · `Linux` · `Git`
+
 </details>
 
 <details>
@@ -154,36 +125,20 @@ const me = {
 
 <br/>
 
-### 自己紹介
+**自己紹介**
 
-```ts
-const me = {
-  role: "フロントエンドエンジニア",
-  focus: ["React", "React Native", "TypeScript", "Node.js"],
-  currently: "FZUHelper クライアントを保守",
-  belief: "動くのはスタート、安定して初めて実力"
-};
-```
+フロントエンドエンジニア。現在は FZUHelper クライアントを保守。  
+クロスプラットフォーム UX、レンダリング性能、フロントエンド工学に関心。
 
-|  |  |
-|---|---|
-| 現在 | **FZUHelper App** を保守 — **21.5万+** ダウンロード、**3410万+** セッション、**1.7万** MAU |
-| 学習中 | **React Native パフォーマンス最適化** と **Agent フロントエンド** |
-| 興味 | クロスプラットフォーム UX、レンダリング性能、フロントエンド工学 |
-| 豆知識 | **GitHub の草は少ないですが、アプリは毎日3万人にサービス提供** |
+**保守中**
 
-### 技術スタック
+- **FZUHelper App** — **21.5万+** ダウンロード、**3410万+** セッション、**1.7万** MAU
+  - 課表カードの動的フィールド表示とレンダリング性能を最適化
+  - Native Module でネイティブ SDK をブリッジし、スキャン機能を改修
+  - 点名チェックインのフロントエンド・バックエンド連携、地図 API で逆ジオコーディングと位置検証
+  - `memo` / `useCallback` / `AsyncStorage` キャッシュで安定性と応答速度を改善
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,html,css,tailwind,vite,git,linux,c,cpp,md&perline=7" />
-
-### 経験
-
-**FZUHelper · クライアント保守**
-
-- 課表カードの動的フィールド表示とレンダリング性能を最適化
-- Native Module でネイティブ SDK をブリッジし、スキャン機能を改修
-- 点名チェックインのフロントエンド・バックエンド連携、地図 API で逆ジオコーディングと位置検証
-- `memo` / `useCallback` / `AsyncStorage` キャッシュで安定性と応答速度を改善
+**プロジェクト**
 
 **AI Chatbot · ストリーミングアシスタント**
 
@@ -203,6 +158,10 @@ const me = {
 - ページネーション + 詳細 + タグページ
 - sitemap.xml / KaTeX / search.json
 
+**スタック**
+
+`React` · `React Native` · `TypeScript` · `Node.js` · `C/C++` · `Linux` · `Git`
+
 </details>
 
 </div>
@@ -211,31 +170,12 @@ const me = {
 
 <div align="center">
 
-## 📡 Signal
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hechawai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2&text_color=c9d1d9&cache_seconds=86400" />
-<img height="160" src="https://streak-stats.demolab.com/?user=hechawai&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=8A2BE2&fire=FF006E&currStreakLabel=36BCF7&cache_seconds=86400" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hechawai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&cache_seconds=86400" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:8A2BE2,100:36BCF7&height=2&section=footer" width="60%" />
-
-<br/>
-
 <a href="https://dayanxiangnanfei.top">
   <img src="https://img.shields.io/badge/dayanxiangnanfei.top-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<i>Make it complex for yourself, simple for your users.</i>
+<sub>Make it complex for yourself, simple for your users.</sub>
 
 </div>
