@@ -1,29 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:8A2BE2,100:FF006E&height=220&section=header&text=hechawai&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%26%20React%20Native&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=2&section=header" width="100%" />
 
 <a href="https://github.com/hechawai">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=800&lines=Hello%2C+World;Frontend+Developer+%40+Fuzhou+University;React+%7C+React+Native+%7C+TypeScript+%7C+Node.js;FZUHelper+Client+Developer;West2+Online+Frontend-Agent+Team+Lead" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%C2%B7+React+Native+%C2%B7+TypeScript;FZUHelper+Client+Maintainer;Building+things+that+people+actually+use" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hechawai&label=Views&color=8A2BE2&style=for-the-badge" />
-<img src="https://img.shields.io/badge/FZU-211-0055A5?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Frontend-FF006E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Coding%20Something%20Cool-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FOCUS-FRONTEND-36BCF7?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STACK-REACT%20%2F%20RN-8A2BE2?style=flat-square&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=hechawai&label=VISITORS&color=FF006E&style=flat-square" />
 
 <br/><br/>
 
 <a href="https://dayanxiangnanfei.top">
-  <img src="https://img.shields.io/badge/Blog-dayanxiangnanfei.top-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E2%86%92%20%E8%AE%BF%E9%97%AE%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://dayanxiangnanfei.top/chat">
-  <img src="https://img.shields.io/badge/AI%20Chat-Live-00C853?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E2%86%92%20AI%20Chat-00C853?style=for-the-badge&logo=openai&logoColor=white" />
 </a>
 <a href="https://github.com/hechawai">
-  <img src="https://img.shields.io/badge/GitHub-hechawai-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E2%86%92%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,50:8A2BE2,100:FF006E&height=2&section=header" width="60%" />
 
 </div>
 
@@ -41,32 +45,33 @@
 ### 关于我
 
 ```ts
-const hechawai = {
-  school: "福州大学 (211)",
-  major: "金融学 (2025 - 2029)",
-  role: [
-    "福大助手 · 客户端开发成员",
-    "西二在线 · 前端-Agent 组组长"
-  ],
-  stack: ["React", "React Native", "TypeScript", "Node.js", "C/C++"],
-  focus: "把复杂交互做得像呼吸一样自然",
-  motto: "代码跑起来只是开始，跑得稳才是本事"
+const me = {
+  role: "Frontend Developer",
+  focus: ["React", "React Native", "TypeScript", "Node.js"],
+  currently: "维护 FZUHelper 客户端",
+  belief: "代码跑起来只是开始，跑得稳才是本事"
 };
 ```
 
 |  |  |
 |---|---|
-| 目前在维护 | **福大助手 App** — 累计 **21.5w+** 独立下载、**3410w+** 次使用 |
+| 目前在维护 | **FZUHelper App** — 累计 **21.5w+** 独立下载、**3410w+** 次使用、月活 **1.7w** |
 | 正在深入 | **React Native 性能优化** 与 **Agent 方向前端工程化** |
-| 荣誉 | **ICPC 校赛三等奖** · **“五一杯”数模省一等奖** |
-| 可以问我 | React / RN 跨端 / Node 部署 / 怎么边学金融边写代码 |
-| 冷知识 | **我的 GitHub 贡献图很空，但我的 App 每天服务 3 万人** |
+| 关注方向 | 跨端体验、渲染性能、前端工程化 |
+| 冷知识 | **GitHub 贡献图很空，但 App 每天服务 3 万人** |
 
 ### 技术栈
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,html,css,tailwind,vite,git,linux,c,cpp,md&perline=7" />
 
-### 精选项目
+### 项目经历
+
+**FZUHelper · 客户端维护**
+
+- 优化课表卡片动态字段展示与渲染性能
+- 通过 Native Module 桥接原生 SDK，改造扫码功能
+- 晚点名签到前后端联调，基于地图 API 实现地址反解与位置校验
+- 运用 `memo` / `useCallback` / `AsyncStorage` 缓存优化稳定性与响应速度
 
 **AI Chatbot · 智能对话助手**
 
@@ -86,18 +91,6 @@ const hechawai = {
 - 分页首页 + 详情页 + 标签页
 - sitemap.xml / KaTeX / search.json
 
-### 实习经历
-
-> **福州西二在线有限公司 · 客户端开发成员**
-> `2026.04 - 2026.10`
->
-> 福大助手 App · React Native · 累计 **21.571 万**独立下载 · **3410.66 万**次使用 · 月活 **1.7 万**
->
-> - 优化课表卡片动态字段展示与渲染性能
-> - 通过 Native Module 桥接原生 SDK，改造学习中心扫码功能
-> - 负责晚点名签到前后端联调，基于地图 API 实现地址反解与签到位置校验
-> - 运用 `memo` / `useCallback` / `AsyncStorage` 缓存优化稳定性与响应速度
-
 </details>
 
 <details>
@@ -108,34 +101,35 @@ const hechawai = {
 ### About Me
 
 ```ts
-const hechawai = {
-  school: "Fuzhou University (211)",
-  major: "Finance (2025 - 2029)",
-  role: [
-    "FZUHelper · Client Developer",
-    "West2 Online · Frontend-Agent Team Lead"
-  ],
-  stack: ["React", "React Native", "TypeScript", "Node.js", "C/C++"],
-  focus: "Make complex interactions feel natural",
-  motto: "Running is just the start. Stable is the skill."
+const me = {
+  role: "Frontend Developer",
+  focus: ["React", "React Native", "TypeScript", "Node.js"],
+  currently: "Maintaining FZUHelper Client",
+  belief: "Running is just the start. Stable is the skill."
 };
 ```
 
 |  |  |
 |---|---|
-| Currently | Maintaining **FZUHelper App** — **215k+** downloads, **34M+** sessions |
+| Currently | Maintaining **FZUHelper App** — **215k+** downloads, **34M+** sessions, **17k** MAU |
 | Learning | **React Native performance** and **Agent frontend engineering** |
-| Honors | **ICPC Third Prize** · **Mathematical Modeling Provincial First Prize** |
-| Ask me about | React / RN / Node deployment / coding while studying finance |
-| Fun fact | **My GitHub graph is empty, but my App serves 30k users daily** |
+| Interests | Cross-platform UX, rendering performance, frontend engineering |
+| Fun fact | **GitHub graph is empty, but the App serves 30k users daily** |
 
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,html,css,tailwind,vite,git,linux,c,cpp,md&perline=7" />
 
-### Featured Projects
+### Experience
 
-**AI Chatbot · Streaming AI Assistant**
+**FZUHelper · Client Maintainer**
+
+- Optimized schedule card dynamic fields and rendering performance
+- Bridged native SDK via Native Module for scan feature
+- Roll-call check-in frontend-backend integration, map API reverse geocoding and location validation
+- Used `memo` / `useCallback` / `AsyncStorage` caching to improve stability and responsiveness
+
+**AI Chatbot · Streaming Assistant**
 
 - React + Zustand global state
 - `fetch + getReader()` streaming + typewriter effect
@@ -153,18 +147,6 @@ const hechawai = {
 - Paginated home + detail + tag pages
 - sitemap.xml / KaTeX / search.json
 
-### Experience
-
-> **Fuzhou West2 Online Co., Ltd. · Client Developer**
-> `2026.04 - 2026.10`
->
-> FZUHelper App · React Native · **215,710** downloads · **34,106,600** sessions · **17,000** MAU
->
-> - Optimized schedule card dynamic fields and rendering performance
-> - Bridged native SDK via Native Module for scan feature
-> - Roll-call check-in frontend-backend integration, map API reverse geocoding and location validation
-> - Used `memo` / `useCallback` / `AsyncStorage` caching to improve stability and responsiveness
-
 </details>
 
 <details>
@@ -175,34 +157,35 @@ const hechawai = {
 ### 自己紹介
 
 ```ts
-const hechawai = {
-  school: "福州大学 (211)",
-  major: "金融学 (2025 - 2029)",
-  role: [
-    "FZUHelper · クライアント開発メンバー",
-    "West2 Online · フロントエンド-Agent 組リーダー"
-  ],
-  stack: ["React", "React Native", "TypeScript", "Node.js", "C/C++"],
-  focus: "複雑なインタラクションを自然に",
-  motto: "動くのはスタート、安定して初めて実力"
+const me = {
+  role: "フロントエンドエンジニア",
+  focus: ["React", "React Native", "TypeScript", "Node.js"],
+  currently: "FZUHelper クライアントを保守",
+  belief: "動くのはスタート、安定して初めて実力"
 };
 ```
 
 |  |  |
 |---|---|
-| 現在 | **FZUHelper App** を保守 — **21.5万+** ダウンロード、**3410万+** セッション |
+| 現在 | **FZUHelper App** を保守 — **21.5万+** ダウンロード、**3410万+** セッション、**1.7万** MAU |
 | 学習中 | **React Native パフォーマンス最適化** と **Agent フロントエンド** |
-| 受賞 | **ICPC 学内三等奖** · **数学モデリング省一賞** |
-| 聞いてください | React / RN / Node デプロイ / 金融を学びながらコードを書く方法 |
+| 興味 | クロスプラットフォーム UX、レンダリング性能、フロントエンド工学 |
 | 豆知識 | **GitHub の草は少ないですが、アプリは毎日3万人にサービス提供** |
 
 ### 技術スタック
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,html,css,tailwind,vite,git,linux,c,cpp,md&perline=7" />
 
-### プロジェクト
+### 経験
 
-**AI Chatbot · ストリーミング AI アシスタント**
+**FZUHelper · クライアント保守**
+
+- 課表カードの動的フィールド表示とレンダリング性能を最適化
+- Native Module でネイティブ SDK をブリッジし、スキャン機能を改修
+- 点名チェックインのフロントエンド・バックエンド連携、地図 API で逆ジオコーディングと位置検証
+- `memo` / `useCallback` / `AsyncStorage` キャッシュで安定性と応答速度を改善
+
+**AI Chatbot · ストリーミングアシスタント**
 
 - React + Zustand グローバル状態管理
 - `fetch + getReader()` ストリーミング + タイプライター効果
@@ -220,18 +203,6 @@ const hechawai = {
 - ページネーション + 詳細 + タグページ
 - sitemap.xml / KaTeX / search.json
 
-### インターン経験
-
-> **福州西二在線有限公司 · クライアント開発メンバー**
-> `2026.04 - 2026.10`
->
-> FZUHelper App · React Native · **21.571万** ダウンロード · **3410.66万** セッション · **1.7万** MAU
->
-> - 課表カードの動的フィールド表示とレンダリング性能を最適化
-> - Native Module でネイティブ SDK をブリッジし、スキャン機能を改修
-> - 点名チェックインのフロントエンド・バックエンド連携、地図 API で逆ジオコーディングと位置検証
-> - `memo` / `useCallback` / `AsyncStorage` キャッシュで安定性と応答速度を改善
-
 </details>
 
 </div>
@@ -240,10 +211,10 @@ const hechawai = {
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📡 Signal
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hechawai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2&text_color=c9d1d9&cache_seconds=86400" />
-<img height="165" src="https://streak-stats.demolab.com/?user=hechawai&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=8A2BE2&fire=FF006E&currStreakLabel=36BCF7&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hechawai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2&text_color=c9d1d9&cache_seconds=86400" />
+<img height="160" src="https://streak-stats.demolab.com/?user=hechawai&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=8A2BE2&fire=FF006E&currStreakLabel=36BCF7&cache_seconds=86400" />
 
 <br/>
 
@@ -255,7 +226,15 @@ const hechawai = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:8A2BE2,100:36BCF7&height=120&section=footer&fontSize=18&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:8A2BE2,100:36BCF7&height=2&section=footer" width="60%" />
+
+<br/>
+
+<a href="https://dayanxiangnanfei.top">
+  <img src="https://img.shields.io/badge/dayanxiangnanfei.top-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <i>Make it complex for yourself, simple for your users.</i>
 
