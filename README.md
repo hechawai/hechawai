@@ -42,20 +42,25 @@
 
 **关于我**
 
-前端开发者，目前在维护 FZUHelper 客户端。  
-关注跨端体验、渲染性能与前端工程化。
+> 前端开发者，目前在维护 FZUHelper 客户端。
+> 关注跨端体验、渲染性能与前端工程化。
+
+<br/>
 
 **在维护**
 
-- **FZUHelper App** — 累计 **21.5w+** 独立下载、**3410w+** 次使用、月活 **1.7w**
-  - 优化课表卡片动态字段展示与渲染性能
-  - 通过 Native Module 桥接原生 SDK，改造扫码功能
-  - 晚点名签到前后端联调，基于地图 API 实现地址反解与位置校验
-  - 运用 `memo` / `useCallback` / `AsyncStorage` 缓存优化稳定性与响应速度
+**FZUHelper App** · `React Native` · 累计 **21.5w+** 独立下载 · **3410w+** 次使用 · 月活 **1.7w**
+
+- 优化课表卡片动态字段展示与渲染性能
+- 通过 Native Module 桥接原生 SDK，改造扫码功能
+- 晚点名签到前后端联调，基于地图 API 实现地址反解与位置校验
+- 运用 `memo` / `useCallback` / `AsyncStorage` 缓存优化稳定性与响应速度
+
+<br/>
 
 **项目**
 
-**AI Chatbot · 智能对话助手**
+**AI Chatbot** · 智能对话助手
 
 - React + Zustand 全局状态
 - `fetch + getReader()` 流式接收 + 打字机效果
@@ -73,6 +78,8 @@
 - 分页首页 + 详情页 + 标签页
 - sitemap.xml / KaTeX / search.json
 
+<br/>
+
 **技术栈**
 
 `React` · `React Native` · `TypeScript` · `Node.js` · `C/C++` · `Linux` · `Git`
@@ -86,20 +93,25 @@
 
 **About**
 
-Frontend developer, currently maintaining FZUHelper Client.  
-Focused on cross-platform UX, rendering performance and frontend engineering.
+> Frontend developer, currently maintaining FZUHelper Client.
+> Focused on cross-platform UX, rendering performance and frontend engineering.
+
+<br/>
 
 **Maintaining**
 
-- **FZUHelper App** — **215k+** downloads, **34M+** sessions, **17k** MAU
-  - Optimized schedule card dynamic fields and rendering performance
-  - Bridged native SDK via Native Module for scan feature
-  - Roll-call check-in frontend-backend integration, map API reverse geocoding and location validation
-  - Used `memo` / `useCallback` / `AsyncStorage` caching to improve stability and responsiveness
+**FZUHelper App** · `React Native` · **215k+** downloads · **34M+** sessions · **17k** MAU
+
+- Optimized schedule card dynamic fields and rendering performance
+- Bridged native SDK via Native Module for scan feature
+- Roll-call check-in frontend-backend integration, map API reverse geocoding and location validation
+- Used `memo` / `useCallback` / `AsyncStorage` caching to improve stability and responsiveness
+
+<br/>
 
 **Projects**
 
-**AI Chatbot · Streaming Assistant**
+**AI Chatbot** · Streaming Assistant
 
 - React + Zustand global state
 - `fetch + getReader()` streaming + typewriter effect
@@ -117,6 +129,8 @@ Focused on cross-platform UX, rendering performance and frontend engineering.
 - Paginated home + detail + tag pages
 - sitemap.xml / KaTeX / search.json
 
+<br/>
+
 **Stack**
 
 `React` · `React Native` · `TypeScript` · `Node.js` · `C/C++` · `Linux` · `Git`
@@ -130,20 +144,25 @@ Focused on cross-platform UX, rendering performance and frontend engineering.
 
 **自己紹介**
 
-フロントエンドエンジニア。現在は FZUHelper クライアントを保守。  
-クロスプラットフォーム UX、レンダリング性能、フロントエンド工学に関心。
+> フロントエンドエンジニア。現在は FZUHelper クライアントを保守。
+> クロスプラットフォーム UX、レンダリング性能、フロントエンド工学に関心。
+
+<br/>
 
 **保守中**
 
-- **FZUHelper App** — **21.5万+** ダウンロード、**3410万+** セッション、**1.7万** MAU
-  - 課表カードの動的フィールド表示とレンダリング性能を最適化
-  - Native Module でネイティブ SDK をブリッジし、スキャン機能を改修
-  - 点名チェックインのフロントエンド・バックエンド連携、地図 API で逆ジオコーディングと位置検証
-  - `memo` / `useCallback` / `AsyncStorage` キャッシュで安定性と応答速度を改善
+**FZUHelper App** · `React Native` · **21.5万+** ダウンロード · **3410万+** セッション · **1.7万** MAU
+
+- 課表カードの動的フィールド表示とレンダリング性能を最適化
+- Native Module でネイティブ SDK をブリッジし、スキャン機能を改修
+- 点名チェックインのフロントエンド・バックエンド連携、地図 API で逆ジオコーディングと位置検証
+- `memo` / `useCallback` / `AsyncStorage` キャッシュで安定性と応答速度を改善
+
+<br/>
 
 **プロジェクト**
 
-**AI Chatbot · ストリーミングアシスタント**
+**AI Chatbot** · ストリーミングアシスタント
 
 - React + Zustand グローバル状態管理
 - `fetch + getReader()` ストリーミング + タイプライター効果
@@ -161,11 +180,32 @@ Focused on cross-platform UX, rendering performance and frontend engineering.
 - ページネーション + 詳細 + タグページ
 - sitemap.xml / KaTeX / search.json
 
+<br/>
+
 **スタック**
 
 `React` · `React Native` · `TypeScript` · `Node.js` · `C/C++` · `Linux` · `Git`
 
 </details>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 Dashboard
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hechawai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2&text_color=c9d1d9&cache_seconds=86400" />
+<img height="160" src="https://streak-stats.demolab.com/?user=hechawai&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=8A2BE2&fire=FF006E&currStreakLabel=36BCF7&cache_seconds=86400" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hechawai&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&cache_seconds=86400" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hechawai&theme=tokyonight" />
 
 </div>
 
