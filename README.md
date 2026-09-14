@@ -1,5 +1,3 @@
-<div align="center">
-
 <pre>
 ██╗  ██╗███████╗ ██████╗██╗  ██╗ █████╗ ██╗    ██╗ █████╗ ██╗
 ██║  ██║██╔════╝██╔════╝██║  ██║██╔══██╗██║    ██║██╔══██╗██║
@@ -15,23 +13,13 @@
 <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&labelColor=0D1117" />
 
-<br/><br/>
+<br/>
 
-<a href="https://dayanxiangnanfei.top">
-  <img src="https://img.shields.io/badge/BLOG-dayanxiangnanfei.top-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://dayanxiangnanfei.top/chat">
-  <img src="https://img.shields.io/badge/AI_CHAT-LIVE-00C853?style=for-the-badge&logo=openai&logoColor=white" />
-</a>
-<a href="https://github.com/hechawai">
-  <img src="https://img.shields.io/badge/GITHUB-hechawai-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+<a href="https://dayanxiangnanfei.top"><img src="https://img.shields.io/badge/BLOG-dayanxiangnanfei.top-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://dayanxiangnanfei.top/chat"><img src="https://img.shields.io/badge/AI_CHAT-LIVE-00C853?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<a href="https://github.com/hechawai"><img src="https://img.shields.io/badge/GITHUB-hechawai-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
-
-<div align="center">
 
 ### 🌐 Language / 语言 / 言語
 
@@ -42,8 +30,10 @@
 
 **关于我**
 
-> 前端开发者，目前在维护 FZUHelper 客户端。
-> 关注跨端体验、渲染性能与前端工程化。
+前端开发者，目前在维护 FZUHelper 客户端。  
+关注跨端体验、渲染性能与前端工程化。
+
+<img src="https://komarev.com/ghpvc/?username=hechawai&label=VISITORS&color=8A2BE2&style=flat-square" />
 
 <br/>
 
@@ -55,6 +45,10 @@
 - 通过 Native Module 桥接原生 SDK，改造扫码功能
 - 晚点名签到前后端联调，基于地图 API 实现地址反解与位置校验
 - 运用 `memo` / `useCallback` / `AsyncStorage` 缓存优化稳定性与响应速度
+
+<img src="https://img.shields.io/badge/FZUHelper-React_Native-61DAFB?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/215k%2B-Downloads-00C853?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/34M%2B-Sessions-36BCF7?style=for-the-badge&labelColor=0D1117" />
 
 <br/>
 
@@ -69,6 +63,10 @@
 - Node.js 转发代理，防跨域与 Key 泄露
 - AbortController 请求中断
 
+<a href="https://dayanxiangnanfei.top/chat"><img src="https://img.shields.io/badge/LIVE_DEMO-AI_Chat-00C853?style=for-the-badge&logo=openai&logoColor=white" /></a>
+
+<br/>
+
 **静态博客生成器**
 
 - `build.js` 一键构建，输出 `dist/`
@@ -78,11 +76,15 @@
 - 分页首页 + 详情页 + 标签页
 - sitemap.xml / KaTeX / search.json
 
+<a href="https://dayanxiangnanfei.top/blog"><img src="https://img.shields.io/badge/LIVE_DEMO-Blog-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
 <br/>
 
 **技术栈**
 
-`React` · `React Native` · `TypeScript` · `Node.js` · `C/C++` · `Linux` · `Git`
+React · React Native · TypeScript · Node.js · C/C++ · Linux · Git
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,html,css,tailwind,vite,git,linux,c,cpp,md&perline=7" />
 
 </details>
 
@@ -93,8 +95,10 @@
 
 **About**
 
-> Frontend developer, currently maintaining FZUHelper Client.
-> Focused on cross-platform UX, rendering performance and frontend engineering.
+Frontend developer, currently maintaining FZUHelper Client.  
+Focused on cross-platform UX, rendering performance and frontend engineering.
+
+<img src="https://komarev.com/ghpvc/?username=hechawai&label=VISITORS&color=8A2BE2&style=flat-square" />
 
 <br/>
 
@@ -106,6 +110,10 @@
 - Bridged native SDK via Native Module for scan feature
 - Roll-call check-in frontend-backend integration, map API reverse geocoding and location validation
 - Used `memo` / `useCallback` / `AsyncStorage` caching to improve stability and responsiveness
+
+<img src="https://img.shields.io/badge/FZUHelper-React_Native-61DAFB?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/215k%2B-Downloads-00C853?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/34M%2B-Sessions-36BCF7?style=for-the-badge&labelColor=0D1117" />
 
 <br/>
 
@@ -120,6 +128,10 @@
 - Node.js proxy to avoid CORS and API key leaks
 - AbortController request cancellation
 
+<a href="https://dayanxiangnanfei.top/chat"><img src="https://img.shields.io/badge/LIVE_DEMO-AI_Chat-00C853?style=for-the-badge&logo=openai&logoColor=white" /></a>
+
+<br/>
+
 **Static Blog Generator**
 
 - `build.js` one-command build to `dist/`
@@ -129,11 +141,15 @@
 - Paginated home + detail + tag pages
 - sitemap.xml / KaTeX / search.json
 
+<a href="https://dayanxiangnanfei.top/blog"><img src="https://img.shields.io/badge/LIVE_DEMO-Blog-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
 <br/>
 
 **Stack**
 
-`React` · `React Native` · `TypeScript` · `Node.js` · `C/C++` · `Linux` · `Git`
+React · React Native · TypeScript · Node.js · C/C++ · Linux · Git
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,html,css,tailwind,vite,git,linux,c,cpp,md&perline=7" />
 
 </details>
 
@@ -144,8 +160,10 @@
 
 **自己紹介**
 
-> フロントエンドエンジニア。現在は FZUHelper クライアントを保守。
-> クロスプラットフォーム UX、レンダリング性能、フロントエンド工学に関心。
+フロントエンドエンジニア。現在は FZUHelper クライアントを保守。  
+クロスプラットフォーム UX、レンダリング性能、フロントエンド工学に関心。
+
+<img src="https://komarev.com/ghpvc/?username=hechawai&label=VISITORS&color=8A2BE2&style=flat-square" />
 
 <br/>
 
@@ -157,6 +175,10 @@
 - Native Module でネイティブ SDK をブリッジし、スキャン機能を改修
 - 点名チェックインのフロントエンド・バックエンド連携、地図 API で逆ジオコーディングと位置検証
 - `memo` / `useCallback` / `AsyncStorage` キャッシュで安定性と応答速度を改善
+
+<img src="https://img.shields.io/badge/FZUHelper-React_Native-61DAFB?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/21.5万%2B-Downloads-00C853?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/3410万%2B-Sessions-36BCF7?style=for-the-badge&labelColor=0D1117" />
 
 <br/>
 
@@ -171,6 +193,10 @@
 - Node.js プロキシで CORS と API Key 漏洩を防止
 - AbortController によるリクエスト中断
 
+<a href="https://dayanxiangnanfei.top/chat"><img src="https://img.shields.io/badge/LIVE_DEMO-AI_Chat-00C853?style=for-the-badge&logo=openai&logoColor=white" /></a>
+
+<br/>
+
 **静的ブログジェネレーター**
 
 - `build.js` ワンコマンドビルド、`dist/` 出力
@@ -180,19 +206,19 @@
 - ページネーション + 詳細 + タグページ
 - sitemap.xml / KaTeX / search.json
 
+<a href="https://dayanxiangnanfei.top/blog"><img src="https://img.shields.io/badge/LIVE_DEMO-Blog-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
 <br/>
 
 **スタック**
 
-`React` · `React Native` · `TypeScript` · `Node.js` · `C/C++` · `Linux` · `Git`
+React · React Native · TypeScript · Node.js · C/C++ · Linux · Git
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,html,css,tailwind,vite,git,linux,c,cpp,md&perline=7" />
 
 </details>
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 📊 Dashboard
 
@@ -207,18 +233,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hechawai&theme=tokyonight" />
 
-</div>
-
 ---
 
-<div align="center">
-
-<a href="https://dayanxiangnanfei.top">
-  <img src="https://img.shields.io/badge/dayanxiangnanfei.top-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<br/><br/>
+<a href="https://dayanxiangnanfei.top"><img src="https://img.shields.io/badge/dayanxiangnanfei.top-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <sub>Make it complex for yourself, simple for your users.</sub>
-
-</div>
